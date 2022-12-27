@@ -1,3 +1,3 @@
 # sorting
 
-#project of 'Veri Yapıları ve Algoritmalar' in Patika.dev
+#projects of 'Veri Yapıları ve Algoritmalar' in Patika.dev
